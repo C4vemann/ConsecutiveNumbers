@@ -4,7 +4,7 @@ Largest amount of consecutive numbers for each category of numbers 0-9 using the
 Download both files: Sup.java and Sup2.java.
 Open the command line and move to the directory where the files are saved.
 Compile Sup2 by entering this command into the terminal: javac Sup2.java
-Run the program by entering this command into the terminal: java Sup2 <fileName>
+Run the program by entering this command into the terminal: java Sup2 "fileName"
     Where fileName is the .txt or .csv file you want to parse
   
 Output:
