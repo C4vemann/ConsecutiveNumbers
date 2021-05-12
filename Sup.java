@@ -51,22 +51,11 @@ class Sup{
 		}
 		System.out.println("]");
 	}
-	static void printBuf(char[] membuf){
+	static void printBuff(char[] membuf){
 		System.out.print("[");
 		for(char c : membuf){
 			System.out.print(c + ", ");
 		}
 		System.out.println("]");
-	}
-	public static void main(String[] args){
-		char[] memBuf1 = {'1','1','1','5','1','1','1','1','1'};
-		char[] memBuf2 = {'1','1','1'};
-		char[] memBuf3 = {'3','4','4','5','1','1','7','1','1','4','8','8','8','2','3','3','1','1','1'};
-		algorithm(memBuf3);
-		algorithm(memBuf2);
-		algorithm(memBuf1);
-		printOutput();
-
-
 	}
 }
