@@ -1,2 +1,2 @@
 # ConsecutiveNumbers
-Largest amount of consecutive numbers for each category of numbers 0-9
+Largest amount of consecutive numbers for each category of numbers 0-9 using the sliding window algorithm.
